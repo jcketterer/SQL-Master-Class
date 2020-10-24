@@ -1,0 +1,7 @@
+select 
+	*
+from
+	[dbo].[Customer]
+
+
+	
